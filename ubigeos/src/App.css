@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.formUbigeos{
+  margin: 20px;
+}
+
+.formUbigeos__btn{
+  background-color: blue;
+  color:white;
+  text-decoration: none;
+  border:none;
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 2px;
+}
+.formUbigeos__btn:hover{
+  background-color: lightgray;
+  color:blue;
+  cursor: pointer;
+}
+
+.formUbigeos__input{
+  background-color: orangered;
+  border: none;
+}
